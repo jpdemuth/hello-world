@@ -1,3 +1,3 @@
 # hello-world
 git tutorial
-I am testing thsi as a course demo
+I am testing this as a course demo
