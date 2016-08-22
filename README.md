@@ -1,2 +1,3 @@
 # hello-world
-git tutorial
+git tut
+I am testing this as a course demo
