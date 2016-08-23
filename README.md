@@ -1,3 +1,3 @@
 # hello-world
-git tut
+git hub
 I am testing this as a course demo
